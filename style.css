@@ -88,9 +88,9 @@ nav ul li a{
     height: 80px;
     background-color: #3D9970;
     color: white;
-    border: none;
     text-transform: uppercase;
     letter-spacing: 0,1em;
+    border: none;
     border-radius: 2px;
     }
 
